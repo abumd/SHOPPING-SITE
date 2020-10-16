@@ -1,0 +1,144 @@
+body{
+  
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+
+  }
+
+
+
+.image1{
+    height: 100px;
+    width: 70px;
+    border: 10px groove yellow;
+    border-radius: 40px;
+    box-shadow: 10px 5px red;
+    
+  
+}
+.image2{
+    height: 100px;
+    width: 100px;
+    border: 10px groove rgb(3, 3, 3);
+    border-radius: 40px;
+    box-shadow: 10px 5px greenyellow;
+}
+.triangle{
+    width: 0px;
+    height: 0px;
+    border-top: 70px solid white;
+    border-right: 70px solid orange;
+    border-left: 70px solid yellow;
+    border-bottom: 70px solid magenta;
+    box-shadow: 10px 5px black;
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    box-sizing: border-box;
+   
+ 
+}
+
+.card1{
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,0.3);
+    width: 250px;
+    font-family: sans-serif;
+    color: skyblue;
+    float: left;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    box-sizing: border-box;
+    margin: 5px;
+   
+}
+.card2{
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,0.3);
+    width: 250px;
+    font-family: sans-serif;
+    color: skyblue;
+    float: left;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    box-sizing: border-box;
+    margin: 5px;
+   
+}
+.card3{
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,0.3);
+    width: 250px;
+    font-family: sans-serif;
+    color: skyblue;
+    float: left;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    box-sizing: border-box;
+    margin: 5px;
+   
+}
+.card-header{
+    padding: 10px;
+    font-size: 18px;
+    background:red;
+  
+      
+    
+
+}
+.card-body{
+    padding: 10px;
+    background: yellow;
+    text-align: center;
+    color: turquoise;
+    
+    
+}
+aside{
+    margin: 10px;
+    border: 10px solid rebeccapurple;
+}
+.imgcard{
+    box-shadow: 0 5px 10px 0 rgba(10, 31, 221, 0.3);
+    box-sizing: border-box;
+    margin-right: 10px;
+    width: 250px;
+    font-family: sans-serif;
+    float: left;
+}
+.imgcard-txt{
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+}
+.imgcard > img {
+    max-width: 100%;
+    height: auto;
+}
+
+h2{
+    text-shadow: 2px  3px 3px  green;
+}
+#main{
+    color: red;
+}
+.container{
+    
+
+ width:50%;
+ margin-left: auto ;
+ margin-right:auto ;
+ display: block;
+
+
+}
